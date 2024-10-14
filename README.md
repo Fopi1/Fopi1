@@ -44,6 +44,6 @@
 
 #### Change my mind
 
-<span style="font-size:2em; text-align:center;" >
+<span align="center">
   <img src="./assets/Other/codewars-color.svg" height="50"/> > <img src="./assets/Other/leetcode-color.svg" width="50"/>
 </span>
