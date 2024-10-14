@@ -44,4 +44,6 @@
 
 #### Change my mind
 
-![](./assets/Other/codewars-color.svg) > ![](./assets/Other/leetcode-color.svg)
+<span style="font-size:1rem" >
+  <img src="./assets/Other/codewars-color.svg"/> > <img src="./assets/Other/leetcode-color.svg"/>
+</span>
