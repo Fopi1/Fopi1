@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi 👋 A Software Engineer from Russian Federation</h2>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Если это не весело, значит вы делаете это неправильно&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Если+это+не+весело,+значит+вы+делаете+это+неправильно&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Frontend:
 
