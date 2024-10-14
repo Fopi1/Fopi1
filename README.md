@@ -48,13 +48,10 @@
 
 #### Change my mind
 
-<p vertical-align="middle">
-  <img src="./assets/Other/codewars-color.svg" height="50"/> Better than <img src="./assets/Other/leetcode-color.svg" width="50"/>
-</p>
-
 <table>
   <tr>
-    <td style="vertical-align: middle;">Элемент 1</td>
-    <td style="vertical-align: middle;">Элемент 2</td>
+    <td style="vertical-align: middle;"><img src="./assets/Other/codewars-color.svg" height="50"/></td>
+    <td style="vertical-align: middle;"><p>Better than</p></td>
+    <td style="vertical-align: middle;"><img src="./assets/Other/leetcode-color.svg" width="50"/></td>
   </tr>
 </table>
