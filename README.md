@@ -6,4 +6,5 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,redux"/>
+<img src="./assets/mobx-color.svg" height="16" width="16"/>
 </p>
