@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/L.jpg"/>
+</p>
+
 # Hi 👋 My name is Michael
 
 ## A Software Engineer from Russian Federation
@@ -26,7 +30,7 @@
   <img src="./assets/Backend/go-color.svg" height="50" width="50"/>
 </p>
 
-### Databse:
+### Database:
 
 <p>
   <img src="./assets/Database/prisma-color.svg" height="50" width="50"/>
@@ -44,6 +48,6 @@
 
 #### Change my mind
 
-<span align="center">
-  <img src="./assets/Other/codewars-color.svg" height="50"/> > <img src="./assets/Other/leetcode-color.svg" width="50"/>
-</span>
+<p vertical-align="middle">
+  <img src="./assets/Other/codewars-color.svg" height="50"/> Better than <img src="./assets/Other/leetcode-color.svg" width="50"/>
+</p>
