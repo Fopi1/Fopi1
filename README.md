@@ -2,10 +2,6 @@
   <img src="./assets/L.jpg"/>
 </p>
 
-<h1 align="center">Hi 👋 My name is Michael</h1>
-
-<h2 align="center">A Software Engineer from Russian Federation</h2>
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=If+it’s+not+fun,+you’re+not+doing+it+right.&author=Bob+Basso&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Frontend:
