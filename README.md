@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/L.jpg"/>
+  <img src="./assets/Pochemy.jpg"/>
 </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=If+it’s+not+fun,+you’re+not+doing+it+right.&author=Bob+Basso&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
